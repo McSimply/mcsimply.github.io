@@ -1,2 +1,2 @@
-# website.github.io
+# mcsimply.github.io
 Website
